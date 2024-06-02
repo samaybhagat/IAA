@@ -1,6 +1,8 @@
 # IAA
 Interactive Asset Allocation - yfinance
 
+![img](https://images.unsplash.com/photo-1535320903710-d993d3d77d29?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 ## What does this program do?
 
 IAA is a optimizer tool -- its true meaning is (I)nteractive (A)sset (A)llocator. The intention is to aid the user in portfolio development with assets of their own choice. 
